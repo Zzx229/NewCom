@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <title>newcom</title>
+    <link rel="icon" type="image/png" sizes="16x16" href="BRS.png"/>
+<link rel="icon" type="image/png" sizes="32x32" href="BRS.png"/>
+<link rel="icon" type="image/png" sizes="96x96" href="BRS.png"/>
+
+    <img src="BRS.png" alt="这是个BRS" width="200" height="200" title="BRS">
+<body>
+<h1>hi,how are you BRS?
+</h1>
+<body background="clouds.gif">
+<body background="https://img2.huashi6.com/images/resource/2018/10/18/7h1238673p0.jpg?imageView2/3/q/85/interlace/1/w/2560/h/2560">
+
+<video width="320" height="240" controls="controls" autoplay="autoplay">
+   
+   <source src="/i/movie.mp4" type="video/mp4" />
+   <object data="/i/movie.mp4" width="320" height="240">
+    <embed width="320" height="240" src="/i/movie.swf" />
+  </object>
+</video>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>
+<script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js"></script>
+
+</body>
+</html>
